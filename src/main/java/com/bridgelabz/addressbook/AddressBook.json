@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "Deep",
+    "lastName": "Saha",
+    "address": "Ejipura",
+    "city": "Bangalore",
+    "state": "karnataka",
+    "zip": 560047,
+    "phoneNumber": 9916522077
+  },
+  {
+    "firstName": "Rajkamal",
+    "lastName": "KamalRaj",
+    "address": "vimanagar",
+    "city": "Pune",
+    "state": "Maharastra",
+    "zip": 496683,
+    "phoneNumber": 9916522077
+  }
+]
